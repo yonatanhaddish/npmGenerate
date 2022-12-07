@@ -1,0 +1,1 @@
+console.log("This is a new package created by Yonatan H.");
